@@ -79,6 +79,6 @@ In your preferred editor, make sure indentation is set to "4 spaces".
 
 ## Run using Python3.8+
 1. Clone or download repositiory: https://github.com/arevish/multiplayerNumberGuessing.git
-2. In source folder, run `python3 'multiPlayerGuessGame.py'` to start Next Pallindrome program, optionally, run with `--help` argument to see other runtime options.
-3. In source folder, run `python3 'GuessthenumberGame.py'` to start Pallindromify the List program, optionally, run with `--help` argument to see other runtime options.
+2. In source folder, run `python3 'multiPlayerGuessGame.py'` to start multi Player Guessing Game program, optionally, run with `--help` argument to see other runtime options.
+3. In source folder, run `python3 'GuessthenumberGame.py'` to start Guess the Number Game program, optionally, run with `--help` argument to see other runtime options.
 
